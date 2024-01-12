@@ -1,0 +1,46 @@
+{
+    "Product": [
+        {
+            "id": 1,
+            "pname": "Laptop",
+            "category": "Personal-computer",
+            "sub_category": [
+                {
+                    "sub_id": "D12",
+                    "sub_name": "12 inch laptop",
+                    "company": "DELL",
+                    "price": 35000,
+                    "image_url":"../../../../Assets/tv.avif"
+                },
+                {
+                    "sub_id": "HP10",
+                    "sub_name": "14 inch laptop",
+                    "company": "HP",
+                    "price": 45000,
+                    "image_url":"../../../../Assets/tv.avif"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "pname": "TV",
+            "category": "LCD TV",
+            "sub_category": [
+                {
+                    "sub_id": "LG45",
+                    "sub_name": "24 inch TV",
+                    "company": "LG",
+                    "price": 15000,
+                    "image_url":"../../../../Assets/tv.avif"
+                },
+                {
+                    "sub_id": "MI132",
+                    "sub_name": "34 inch TV",
+                    "company": "MI",
+                    "price": 25000,
+                    "image_url":"../../../../Assets/tv.avif"
+                }
+            ]
+        }
+    ]
+}
